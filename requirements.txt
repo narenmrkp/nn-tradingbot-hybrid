@@ -1,0 +1,12 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+pandas==2.2.0
+pandas-ta==0.3.14b0
+pyotp==2.9.0
+apscheduler==3.10.4
+requests==2.31.0
+sqlalchemy==2.0.25
+python-dotenv==1.0.1
+pydantic==2.5.3
+twilio==8.11.0
+fyers-apiv3==3.0.1

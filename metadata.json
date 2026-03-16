@@ -1,0 +1,5 @@
+{
+  "name": "TradeBot Pro: WhatsApp Algo Trader",
+  "description": "A production-grade intraday trading bot with WhatsApp control, OTP security, and robust risk management.",
+  "requestFramePermissions": []
+}
